@@ -1,12 +1,12 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="controls_repeat" id="247" inline="true" x="47" y="-22">
+  <block type="controls_repeat" id="1" inline="true" x="47" y="-22">
     <value name="TIMES">
-      <block type="math_number" id="260">
+      <block type="math_number" id="2">
         <field name="NUM">133333</field>
       </block>
     </value>
     <statement name="DO">
-      <block type="movement_forward" id="223"></block>
+      <block type="movement_forward" id="3"></block>
     </statement>
   </block>
 </xml>
